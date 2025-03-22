@@ -1,0 +1,6 @@
+[submodule "Stop-Ask-Questions-The-Stupid-Ways"]
+	path = Stop-Ask-Questions-The-Stupid-Ways
+	url = https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways
+[submodule "How-To-Ask-Questions-The-Smart-Way"]
+	path = How-To-Ask-Questions-The-Smart-Way
+	url = https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way
